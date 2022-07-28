@@ -1,0 +1,2 @@
+# newProject
+as a template
